@@ -1,0 +1,4 @@
+report_path: "./reportfile/initialdata.csv"
+template_text_path: "./reportfile/sys_prompt.text"
+report_column: "report"
+output_path: "./result/output.csv"

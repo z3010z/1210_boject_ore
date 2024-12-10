@@ -1,0 +1,6 @@
+Please read the report and answer the question. Provide the answer strictly in json format, complying with RFC8259. The response must look exactly like this:
+{
+    "Basis": "detail of the answer",
+    "Answer": "yes, no, or suspected"
+}
+Please do not include any additional formatting or markdown, and do not add extra lines or escape sequences.
